@@ -20,7 +20,7 @@
 		Acesso a página realizado em
 		<%=dataFormatada%></p>
 	<table id="roupas">
-		<tr>
+		<tr id="header">
 			<td><b>Tipo</b></td>
 			<td><b>Marca</b></td>
 			<td><b>Preço</b></td>

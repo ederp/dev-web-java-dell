@@ -8,7 +8,7 @@ public class RoupasDAO {
 	public RoupasDAO() {
 		listaRoupas = new ArrayList<Roupa>();
 		
-		this.listaRoupas.add(new Roupa("berumda", "pakalolo", 30, 5));
+		this.listaRoupas.add(new Roupa("bermuda", "pakalolo", 30, 5));
 		this.listaRoupas.add(new Roupa("vestido", "gucci", 400, 6));
 		this.listaRoupas.add(new Roupa("jaqueta", "tng", 150, 4));
 		this.listaRoupas.add(new Roupa("camiseta", "supreme", 100, 7));
