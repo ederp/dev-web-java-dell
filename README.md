@@ -1,5 +1,5 @@
 # dev-web-java-dell
-Exercícios do curso de Fundamentos de Programação para a Web com Java da Dell Lead
+Exercícios do curso de Fundamentos de Programação para a Web com Java da [Dell Lead](http://leadfortaleza.com.br/dal/)
 
 **Descrição do problema do projeto Oficina_JSP_I:**
 
